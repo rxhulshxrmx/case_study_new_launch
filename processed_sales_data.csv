@@ -1,0 +1,28 @@
+Store,Brand,Type,Pack Size,Units Sold,Total Revenue,Total Volume (L),Revenue per Liter
+Store A,Budweiser,Can,6,20,12000,60.0,200.0
+Store A,Budweiser,Bottle,6,6,4680,23.4,200.0
+Store A,Budweiser,Can,12,8,9600,48.0,200.0
+Store A,Stella Artois,Can,6,123,110700,369.0,300.0
+Store A,Stella Artois,Bottle,6,108,123120,421.2,292.3076923076923
+Store A,Stella Artois,Can,12,78,140400,468.0,300.0
+Store A,Competitor,Can,6,68,53040,204.0,260.0
+Store A,Competitor,Bottle,6,37,37740,144.3,261.5384615384615
+Store A,Competitor,Can,12,12,18720,72.0,260.0
+Store B,Budweiser,Can,6,65,39000,195.0,200.0
+Store B,Budweiser,Bottle,6,35,27300,136.5,200.0
+Store B,Budweiser,Can,12,24,28800,144.0,200.0
+Store B,Stella Artois,Can,6,163,146700,489.0,300.0
+Store B,Stella Artois,Bottle,6,105,119700,409.5,292.3076923076923
+Store B,Stella Artois,Can,12,28,50400,168.0,300.0
+Store B,Competitor,Can,6,274,213720,822.0,260.0
+Store B,Competitor,Bottle,6,143,145860,557.7,261.5384615384615
+Store B,Competitor,Can,12,53,82680,318.0,260.0
+Store C,Budweiser,Can,6,163,97800,489.0,200.0
+Store C,Budweiser,Bottle,6,82,63960,319.8,200.0
+Store C,Budweiser,Can,12,74,88800,444.0,200.0
+Store C,Stella Artois,Can,6,32,28800,96.0,300.0
+Store C,Stella Artois,Bottle,6,10,11400,39.0,292.3076923076923
+Store C,Stella Artois,Can,12,5,9000,30.0,300.0
+Store C,Competitor,Can,6,11,8580,33.0,260.0
+Store C,Competitor,Bottle,6,8,8160,31.2,261.53846153846155
+Store C,Competitor,Can,12,8,12480,48.0,260.0
